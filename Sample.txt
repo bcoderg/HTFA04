@@ -1,0 +1,15 @@
+This is the sample showing , working of our project 
+
+
+
+TECHSTACK:
+Python
+Pycharm
+HTML,CSS
+XML
+AWS
+
+
+
+
+
