@@ -10,13 +10,15 @@ The working of our project is as follows:
 
 5)Select your business , product type to get the detailed Customer Trend Analysis
 
+****
+6)Based on the scope of business , choose cloud storage and get the domain to keep track of entire data in the database
 
 
-Based on the scope of business
+Hurrah...
 
+You have the deatiled Trend Analysis of your customers 
 
-
-
+Analyse your business strengths and weaknesses , give the best to your customers
 
 
 
