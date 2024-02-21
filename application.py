@@ -11,11 +11,11 @@ import dash_bootstrap_components as dbc
 
 from dash.dependencies import Input, Output
 import plotly.express as px
-import pandas as pd
+import pandas as pd    
 import plotly.graph_objects as go
 import dash_daq as daq
 import ast
-from assets.CustomerReviewGraphs import  CustomerReviewAnalysis
+from assets.CustomerReviewGraphs import  CustomerReviewAnalysis         
 #from assets.CusomerReviewKeywords import CustomerReviewKeywords
 
 def drawTrendsBarFigure(fig=None):
