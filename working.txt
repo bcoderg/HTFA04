@@ -4,6 +4,12 @@ The working of our project is as follows:
 
 2)Replace your dataset with the yelp_reviews_business_merged fils
 
+3)The model starts building and training the data , based on the CONVOLUTIONAL NEURAL NETWORK using Deep Learning mechanisms 
+
+4)Run the application.py file 
+
+5)Select your business , product type to get the detailed Customer Trend Analysis
+
 
 
 Based on the scope of business
