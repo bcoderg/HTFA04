@@ -1,6 +1,12 @@
 The working of our project is as follows:
 
+1)Prepare the datasets , based on ur custom business reviews datasets 
 
+2)Replace your dataset with the yelp_reviews_business_merged fils
+
+
+
+Based on the scope of business
 
 
 
