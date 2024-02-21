@@ -6,7 +6,7 @@ The working of our project is as follows:
 
 3)The model starts building and training the data , based on the CONVOLUTIONAL NEURAL NETWORK using Deep Learning mechanisms 
 
-4)Run the application.py file 
+4)Run the application.py file   
 
 5)Select your business , product type to get the detailed Customer Trend Analysis
 
