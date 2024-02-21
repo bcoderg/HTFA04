@@ -2,9 +2,9 @@ The working of our project is as follows:
 
 1)Prepare the datasets , based on your customer reviews 
 
-2)Replace your dataset with the yelp_reviews_business_merged fils
+2)Replace your dataset with the yelp_reviews_business_merged file
 
-3)The model starts building and training the data , based on the CONVOLUTIONAL NEURAL NETWORK using Deep Learning mechanisms 
+3)The model starts building and training the data , based on the CONVOLUTIONAL NEURAL NETWORK (CNN) using Deep Learning mechanism
 
 4)Run the application.py file   
 
